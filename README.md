@@ -11,3 +11,4 @@ Step 1. [获取key](https://my.chinaz.com/ChinazAPI/DataCenter/MyDataApi)
 
 Step 2. python3 getorgdomain.py [key] [target_domain]
 
+![getorgdomain](https://raw.githubusercontent.com/B1ueB0ne/HackFlow/master/img/getorgdomain.png)
