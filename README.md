@@ -3,7 +3,7 @@ Hack Workflow  一些hack工作流
 
 
 
-### [1.获取与某一个域名相关联的所有域名]()
+### [1.获取与某一个域名相关联的所有域名](https://github.com/B1ueB0ne/HackFlow/blob/master/information_gather/getorgdomain.py)
 
 使用方法：
 
